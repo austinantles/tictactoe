@@ -1,0 +1,1 @@
+A tic-tac-toe project I did to teach myself basic AI logic.
